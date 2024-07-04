@@ -24,7 +24,7 @@ const Navbar = () => {
                                 <li><a className="dropdown-item" href="#">Service 3</a></li>
                             </ul>
                         </li>
-                        <li><Link href="#" className="nav-link px-2 link-body-emphasis">Contact</Link></li>
+                        <li><Link href="/contect" className="nav-link px-2 link-body-emphasis">Contact</Link></li>
                     </ul>
 
                     <form className="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">

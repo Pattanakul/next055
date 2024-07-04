@@ -1,5 +1,5 @@
-// File: pages/index.js
 import Navbar from '../app/component/navbar';
+import Footer from '/app/component/footer';
 
 const Home = () => {
     return (
@@ -63,6 +63,8 @@ const Home = () => {
                     </div>
                 </div>
             </div>
+
+            <Footer />
         </>
     );
 }
